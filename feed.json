@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TV Aeroals Oldham",
+    "description": "",
+    "home_page_url": "https://tvaerialsoldham.github.io/Oldham",
+    "feed_url": "https://tvaerialsoldham.github.io/Oldham/feed.json",
+    "user_comment": "",
+    "icon": "https://tvaerialsoldham.github.io/Oldham/media/website/Oldham-Aerial-reviews.png",
+    "author": {
+        "name": "Gaz Pearce"
+    },
+    "items": [
+        {
+            "id": "https://tvaerialsoldham.github.io/Oldham/hello-world.html",
+            "url": "https://tvaerialsoldham.github.io/Oldham/hello-world.html",
+            "title": "Hello World",
+            "author": {
+                "name": "Gaz Pearce"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-20T15:47:21+01:00",
+            "date_modified": "2019-10-20T15:47:21+01:00"
+        }
+    ]
+}
